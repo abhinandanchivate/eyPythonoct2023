@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-16T08:48:22.256Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="-Sz1Eq6GF9l3lZJkMAPq" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-16T09:55:41.974Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="sits_eFGHtmB6x9AOh5s" version="22.0.4" type="github">
   <diagram name="Page-1" id="zNJ5UQksdYzEF09rp-Vq">
     <mxGraphModel dx="794" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -22,8 +22,17 @@
         <mxCell id="uH35Pix8b04AkgklcFdW-4" value="when we will accept the user defined input using input function then wrap respective type function to get the value in specific type" style="whiteSpace=wrap;html=1;fontSize=22;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="212.5" y="840" width="385" height="140" as="geometry" />
         </mxCell>
+        <mxCell id="uH35Pix8b04AkgklcFdW-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uH35Pix8b04AkgklcFdW-6" target="uH35Pix8b04AkgklcFdW-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="uH35Pix8b04AkgklcFdW-6" value="final from typing package to declare the final / constants across the modules." style="whiteSpace=wrap;html=1;fontSize=22;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="237.5" y="1090" width="335" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="uH35Pix8b04AkgklcFdW-9" value="Collections : its a group where we can have data of various types.&lt;br&gt;&lt;br&gt;python will have some predefined collections :&amp;nbsp;&lt;br&gt;1. list (it can hold the data of various types.) but we can hold data of the same type.&lt;br&gt;&lt;br&gt;2. SET : set items are unordered, unchangeable and don&#39;t hold duplicate values." style="whiteSpace=wrap;html=1;fontSize=22;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="185.63" y="1370" width="514.37" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="uH35Pix8b04AkgklcFdW-12" value="&lt;div style=&quot;color: rgb(204, 204, 204); background-color: rgb(31, 31, 31); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div&gt;# if we will repeat the key then it will replace the old value with new value&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #6a9955;&quot;&gt;# dictionary will hold unique keys, but value part can be repeated for the keys.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div&gt;# memebership operator will work only for keys from dictionary.&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #dcdcaa;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="262.5" y="1660" width="310" height="250" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
