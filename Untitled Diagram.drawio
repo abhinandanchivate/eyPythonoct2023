@@ -1,9 +1,24 @@
-<mxfile host="app.diagrams.net" modified="2023-10-16T05:18:54.418Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="2fEREti9zKCquDlnJoRv" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-16T07:16:58.169Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="6qN69vUIX-gV8LH5PIrk" version="22.0.4" type="github">
   <diagram name="Page-1" id="zNJ5UQksdYzEF09rp-Vq">
     <mxGraphModel dx="794" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="uH35Pix8b04AkgklcFdW-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uH35Pix8b04AkgklcFdW-1" target="uH35Pix8b04AkgklcFdW-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uH35Pix8b04AkgklcFdW-1" value="Python : cross platform programming lang.&amp;nbsp; it can run on multiple platforms. it is interpreted language.&amp;nbsp;&lt;br&gt;&lt;br&gt;interpreter : to execute the code , line by line --&amp;gt; source code once @ a time into the machine code.&amp;nbsp;&lt;br&gt;&lt;br&gt;versions : 2.x and 3.x ==&amp;gt; 3.12/&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="150" y="90" width="510" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="uH35Pix8b04AkgklcFdW-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uH35Pix8b04AkgklcFdW-2" target="uH35Pix8b04AkgklcFdW-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uH35Pix8b04AkgklcFdW-2" value="1. web application&lt;br&gt;2. big data applications&lt;br&gt;3. testing&lt;br&gt;4. automation&lt;br&gt;5. ds/AI ML&lt;br&gt;6. desktop based soft.&lt;br&gt;7. mobile apps." style="whiteSpace=wrap;html=1;fontSize=22;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="243.75" y="440" width="322.5" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="uH35Pix8b04AkgklcFdW-4" value="when we will accept the user defined input using input function then wrap respective type function to get the value in specific type" style="whiteSpace=wrap;html=1;fontSize=22;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="212.5" y="840" width="385" height="140" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
