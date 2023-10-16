@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-16T09:55:41.974Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="sits_eFGHtmB6x9AOh5s" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-16T16:03:08.865Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="NUbZIYddA_ispbyCfW1u" version="22.0.4" type="github">
   <diagram name="Page-1" id="zNJ5UQksdYzEF09rp-Vq">
     <mxGraphModel dx="794" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -33,6 +33,81 @@
         </mxCell>
         <mxCell id="uH35Pix8b04AkgklcFdW-12" value="&lt;div style=&quot;color: rgb(204, 204, 204); background-color: rgb(31, 31, 31); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div&gt;# if we will repeat the key then it will replace the old value with new value&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #6a9955;&quot;&gt;# dictionary will hold unique keys, but value part can be repeated for the keys.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div&gt;# memebership operator will work only for keys from dictionary.&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #dcdcaa;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="262.5" y="1660" width="310" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="uH35Pix8b04AkgklcFdW-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uH35Pix8b04AkgklcFdW-13" target="uH35Pix8b04AkgklcFdW-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uH35Pix8b04AkgklcFdW-13" value="if( condition)&lt;br&gt;block (will multiple lines of code)&lt;br&gt;else&lt;br&gt;block" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1970" width="360" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="uH35Pix8b04AkgklcFdW-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uH35Pix8b04AkgklcFdW-14" target="uH35Pix8b04AkgklcFdW-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uH35Pix8b04AkgklcFdW-14" value="2020 , 2000, 1600 , 1800 , 1988 , 2023 :&amp;nbsp;&lt;br&gt;Leap years : 2020, 2000, 1600, 1988,&amp;nbsp;&lt;br&gt;non leap years : 1800 , 2023" style="whiteSpace=wrap;html=1;fontSize=22;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="2310" width="530" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="uH35Pix8b04AkgklcFdW-16" value="1. if the year is century and in between century." style="whiteSpace=wrap;html=1;fontSize=22;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="377.5" y="2690" width="395" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uH35Pix8b04AkgklcFdW-18" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="2890" width="460" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="uH35Pix8b04AkgklcFdW-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uH35Pix8b04AkgklcFdW-19" target="uH35Pix8b04AkgklcFdW-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uH35Pix8b04AkgklcFdW-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uH35Pix8b04AkgklcFdW-19" target="uH35Pix8b04AkgklcFdW-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uH35Pix8b04AkgklcFdW-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uH35Pix8b04AkgklcFdW-19" target="uH35Pix8b04AkgklcFdW-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uH35Pix8b04AkgklcFdW-19" value="condition" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="2980" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uH35Pix8b04AkgklcFdW-20" value="initialization" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="2890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uH35Pix8b04AkgklcFdW-22" value="next statement" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="2990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uH35Pix8b04AkgklcFdW-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uH35Pix8b04AkgklcFdW-24" target="uH35Pix8b04AkgklcFdW-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uH35Pix8b04AkgklcFdW-24" value="block" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="3150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uH35Pix8b04AkgklcFdW-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uH35Pix8b04AkgklcFdW-26" target="uH35Pix8b04AkgklcFdW-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="3010" />
+              <mxPoint x="420" y="3010" />
+              <mxPoint x="420" y="3020" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uH35Pix8b04AkgklcFdW-26" value="increment/decrement" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="3050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uH35Pix8b04AkgklcFdW-29" value="F" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="2980" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uH35Pix8b04AkgklcFdW-30" value="T" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="3065" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uH35Pix8b04AkgklcFdW-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uH35Pix8b04AkgklcFdW-32" target="uH35Pix8b04AkgklcFdW-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uH35Pix8b04AkgklcFdW-32" value="When to use loop and if - else" style="rounded=1;whiteSpace=wrap;html=1;fontSize=30;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="382.82" y="3280" width="457.18" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="uH35Pix8b04AkgklcFdW-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uH35Pix8b04AkgklcFdW-33" target="uH35Pix8b04AkgklcFdW-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uH35Pix8b04AkgklcFdW-33" value="For loop" style="whiteSpace=wrap;html=1;fontSize=30;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="497.10999999999996" y="3450" width="228.59" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="uH35Pix8b04AkgklcFdW-35" value="collections" style="whiteSpace=wrap;html=1;fontSize=30;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="512.11" y="3605" width="198.6" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
