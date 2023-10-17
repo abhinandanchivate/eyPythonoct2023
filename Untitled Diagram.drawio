@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-17T08:32:22.548Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="Z7U0QrFSMRI8BycXAWNH" version="22.0.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-10-17T12:23:11.891Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="HGIgjEJTXJoHw9Q2GJZ5" version="22.0.4" type="github" pages="2">
   <diagram name="Page-1" id="zNJ5UQksdYzEF09rp-Vq">
     <mxGraphModel dx="794" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -138,8 +138,14 @@
         <mxCell id="F-sv6ZL5z_07EZssrHxo-6" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="622" y="845" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="F-sv6ZL5z_07EZssrHxo-7" value="we can write multiple init methods but it will consider the last one for execution.&lt;br&gt;&lt;b&gt;we must declare only one init.&lt;br&gt;&lt;br&gt;our field name and method must not be same.&lt;br&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontSize=22;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="300.5" y="1220" width="399.5" height="180" as="geometry" />
+        <mxCell id="F-sv6ZL5z_07EZssrHxo-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F-sv6ZL5z_07EZssrHxo-7" target="F-sv6ZL5z_07EZssrHxo-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F-sv6ZL5z_07EZssrHxo-7" value="we can write multiple init methods but it will consider the last one for execution.&lt;br&gt;&lt;b&gt;we must declare only one init.&lt;br&gt;&lt;br&gt;our field name and method must not be same.&lt;br&gt;&lt;br&gt;No need to declare the fields in class directly we will declare them in init method using self.XXX (XXX = name of field)&lt;br&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontSize=22;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="300.5" y="1220" width="459.5" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="F-sv6ZL5z_07EZssrHxo-9" value="What is inheritance ?&amp;nbsp;&lt;br&gt;it will allow us to new class on the basis of existing one.&lt;br&gt;is-a relationship" style="whiteSpace=wrap;html=1;fontSize=22;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="375.38" y="1670" width="309.75" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
