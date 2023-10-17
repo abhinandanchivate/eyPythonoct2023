@@ -1,82 +1,82 @@
-<mxfile host="app.diagrams.net" modified="2023-10-16T16:03:08.865Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="NUbZIYddA_ispbyCfW1u" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-17T08:32:22.548Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="Z7U0QrFSMRI8BycXAWNH" version="22.0.4" type="github" pages="2">
   <diagram name="Page-1" id="zNJ5UQksdYzEF09rp-Vq">
     <mxGraphModel dx="794" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="uH35Pix8b04AkgklcFdW-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uH35Pix8b04AkgklcFdW-1" target="uH35Pix8b04AkgklcFdW-2">
+        <mxCell id="uH35Pix8b04AkgklcFdW-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="uH35Pix8b04AkgklcFdW-1" target="uH35Pix8b04AkgklcFdW-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uH35Pix8b04AkgklcFdW-1" value="Python : cross platform programming lang.&amp;nbsp; it can run on multiple platforms. it is interpreted language.&amp;nbsp;&lt;br&gt;&lt;br&gt;interpreter : to execute the code , line by line --&amp;gt; source code once @ a time into the machine code.&amp;nbsp;&lt;br&gt;&lt;br&gt;versions : 2.x and 3.x ==&amp;gt; 3.12/&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+        <mxCell id="uH35Pix8b04AkgklcFdW-1" value="Python : cross platform programming lang.&amp;nbsp; it can run on multiple platforms. it is interpreted language.&amp;nbsp;&lt;br&gt;&lt;br&gt;interpreter : to execute the code , line by line --&amp;gt; source code once @ a time into the machine code.&amp;nbsp;&lt;br&gt;&lt;br&gt;versions : 2.x and 3.x ==&amp;gt; 3.12/&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="150" y="90" width="510" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="uH35Pix8b04AkgklcFdW-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uH35Pix8b04AkgklcFdW-2" target="uH35Pix8b04AkgklcFdW-4">
+        <mxCell id="uH35Pix8b04AkgklcFdW-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="uH35Pix8b04AkgklcFdW-2" target="uH35Pix8b04AkgklcFdW-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uH35Pix8b04AkgklcFdW-2" value="1. web application&lt;br&gt;2. big data applications&lt;br&gt;3. testing&lt;br&gt;4. automation&lt;br&gt;5. ds/AI ML&lt;br&gt;6. desktop based soft.&lt;br&gt;7. mobile apps." style="whiteSpace=wrap;html=1;fontSize=22;rounded=1;" vertex="1" parent="1">
+        <mxCell id="uH35Pix8b04AkgklcFdW-2" value="1. web application&lt;br&gt;2. big data applications&lt;br&gt;3. testing&lt;br&gt;4. automation&lt;br&gt;5. ds/AI ML&lt;br&gt;6. desktop based soft.&lt;br&gt;7. mobile apps." style="whiteSpace=wrap;html=1;fontSize=22;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="243.75" y="440" width="322.5" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="uH35Pix8b04AkgklcFdW-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uH35Pix8b04AkgklcFdW-4" target="uH35Pix8b04AkgklcFdW-6">
+        <mxCell id="uH35Pix8b04AkgklcFdW-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="uH35Pix8b04AkgklcFdW-4" target="uH35Pix8b04AkgklcFdW-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uH35Pix8b04AkgklcFdW-4" value="when we will accept the user defined input using input function then wrap respective type function to get the value in specific type" style="whiteSpace=wrap;html=1;fontSize=22;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="uH35Pix8b04AkgklcFdW-4" value="when we will accept the user defined input using input function then wrap respective type function to get the value in specific type" style="whiteSpace=wrap;html=1;fontSize=22;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="212.5" y="840" width="385" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="uH35Pix8b04AkgklcFdW-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uH35Pix8b04AkgklcFdW-6" target="uH35Pix8b04AkgklcFdW-9">
+        <mxCell id="uH35Pix8b04AkgklcFdW-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="uH35Pix8b04AkgklcFdW-6" target="uH35Pix8b04AkgklcFdW-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uH35Pix8b04AkgklcFdW-6" value="final from typing package to declare the final / constants across the modules." style="whiteSpace=wrap;html=1;fontSize=22;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;" vertex="1" parent="1">
+        <mxCell id="uH35Pix8b04AkgklcFdW-6" value="final from typing package to declare the final / constants across the modules." style="whiteSpace=wrap;html=1;fontSize=22;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="237.5" y="1090" width="335" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="uH35Pix8b04AkgklcFdW-9" value="Collections : its a group where we can have data of various types.&lt;br&gt;&lt;br&gt;python will have some predefined collections :&amp;nbsp;&lt;br&gt;1. list (it can hold the data of various types.) but we can hold data of the same type.&lt;br&gt;&lt;br&gt;2. SET : set items are unordered, unchangeable and don&#39;t hold duplicate values." style="whiteSpace=wrap;html=1;fontSize=22;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;" vertex="1" parent="1">
+        <mxCell id="uH35Pix8b04AkgklcFdW-9" value="Collections : its a group where we can have data of various types.&lt;br&gt;&lt;br&gt;python will have some predefined collections :&amp;nbsp;&lt;br&gt;1. list (it can hold the data of various types.) but we can hold data of the same type.&lt;br&gt;&lt;br&gt;2. SET : set items are unordered, unchangeable and don&#39;t hold duplicate values." style="whiteSpace=wrap;html=1;fontSize=22;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="185.63" y="1370" width="514.37" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="uH35Pix8b04AkgklcFdW-12" value="&lt;div style=&quot;color: rgb(204, 204, 204); background-color: rgb(31, 31, 31); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div&gt;# if we will repeat the key then it will replace the old value with new value&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #6a9955;&quot;&gt;# dictionary will hold unique keys, but value part can be repeated for the keys.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div&gt;# memebership operator will work only for keys from dictionary.&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #dcdcaa;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="uH35Pix8b04AkgklcFdW-12" value="&lt;div style=&quot;color: rgb(204, 204, 204); background-color: rgb(31, 31, 31); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div&gt;# if we will repeat the key then it will replace the old value with new value&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #6a9955;&quot;&gt;# dictionary will hold unique keys, but value part can be repeated for the keys.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div&gt;# memebership operator will work only for keys from dictionary.&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #dcdcaa;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="262.5" y="1660" width="310" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="uH35Pix8b04AkgklcFdW-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uH35Pix8b04AkgklcFdW-13" target="uH35Pix8b04AkgklcFdW-14">
+        <mxCell id="uH35Pix8b04AkgklcFdW-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="uH35Pix8b04AkgklcFdW-13" target="uH35Pix8b04AkgklcFdW-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uH35Pix8b04AkgklcFdW-13" value="if( condition)&lt;br&gt;block (will multiple lines of code)&lt;br&gt;else&lt;br&gt;block" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+        <mxCell id="uH35Pix8b04AkgklcFdW-13" value="if( condition)&lt;br&gt;block (will multiple lines of code)&lt;br&gt;else&lt;br&gt;block" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="330" y="1970" width="360" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="uH35Pix8b04AkgklcFdW-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uH35Pix8b04AkgklcFdW-14" target="uH35Pix8b04AkgklcFdW-16">
+        <mxCell id="uH35Pix8b04AkgklcFdW-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="uH35Pix8b04AkgklcFdW-14" target="uH35Pix8b04AkgklcFdW-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uH35Pix8b04AkgklcFdW-14" value="2020 , 2000, 1600 , 1800 , 1988 , 2023 :&amp;nbsp;&lt;br&gt;Leap years : 2020, 2000, 1600, 1988,&amp;nbsp;&lt;br&gt;non leap years : 1800 , 2023" style="whiteSpace=wrap;html=1;fontSize=22;rounded=1;" vertex="1" parent="1">
+        <mxCell id="uH35Pix8b04AkgklcFdW-14" value="2020 , 2000, 1600 , 1800 , 1988 , 2023 :&amp;nbsp;&lt;br&gt;Leap years : 2020, 2000, 1600, 1988,&amp;nbsp;&lt;br&gt;non leap years : 1800 , 2023" style="whiteSpace=wrap;html=1;fontSize=22;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="2310" width="530" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="uH35Pix8b04AkgklcFdW-16" value="1. if the year is century and in between century." style="whiteSpace=wrap;html=1;fontSize=22;rounded=1;" vertex="1" parent="1">
+        <mxCell id="uH35Pix8b04AkgklcFdW-16" value="1. if the year is century and in between century." style="whiteSpace=wrap;html=1;fontSize=22;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="377.5" y="2690" width="395" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uH35Pix8b04AkgklcFdW-18" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="uH35Pix8b04AkgklcFdW-18" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="270" y="2890" width="460" height="370" as="geometry" />
         </mxCell>
-        <mxCell id="uH35Pix8b04AkgklcFdW-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uH35Pix8b04AkgklcFdW-19" target="uH35Pix8b04AkgklcFdW-20">
+        <mxCell id="uH35Pix8b04AkgklcFdW-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="uH35Pix8b04AkgklcFdW-19" target="uH35Pix8b04AkgklcFdW-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uH35Pix8b04AkgklcFdW-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uH35Pix8b04AkgklcFdW-19" target="uH35Pix8b04AkgklcFdW-22">
+        <mxCell id="uH35Pix8b04AkgklcFdW-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="uH35Pix8b04AkgklcFdW-19" target="uH35Pix8b04AkgklcFdW-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uH35Pix8b04AkgklcFdW-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uH35Pix8b04AkgklcFdW-19" target="uH35Pix8b04AkgklcFdW-24">
+        <mxCell id="uH35Pix8b04AkgklcFdW-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="uH35Pix8b04AkgklcFdW-19" target="uH35Pix8b04AkgklcFdW-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uH35Pix8b04AkgklcFdW-19" value="condition" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="uH35Pix8b04AkgklcFdW-19" value="condition" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="2980" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="uH35Pix8b04AkgklcFdW-20" value="initialization" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="uH35Pix8b04AkgklcFdW-20" value="initialization" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="425" y="2890" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uH35Pix8b04AkgklcFdW-22" value="next statement" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="uH35Pix8b04AkgklcFdW-22" value="next statement" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="580" y="2990" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uH35Pix8b04AkgklcFdW-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uH35Pix8b04AkgklcFdW-24" target="uH35Pix8b04AkgklcFdW-26">
+        <mxCell id="uH35Pix8b04AkgklcFdW-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="uH35Pix8b04AkgklcFdW-24" target="uH35Pix8b04AkgklcFdW-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uH35Pix8b04AkgklcFdW-24" value="block" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="uH35Pix8b04AkgklcFdW-24" value="block" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="420" y="3150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uH35Pix8b04AkgklcFdW-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uH35Pix8b04AkgklcFdW-26" target="uH35Pix8b04AkgklcFdW-19">
+        <mxCell id="uH35Pix8b04AkgklcFdW-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="uH35Pix8b04AkgklcFdW-26" target="uH35Pix8b04AkgklcFdW-19" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="340" y="3010" />
@@ -85,29 +85,61 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="uH35Pix8b04AkgklcFdW-26" value="increment/decrement" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="uH35Pix8b04AkgklcFdW-26" value="increment/decrement" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="3050" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uH35Pix8b04AkgklcFdW-29" value="F" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="uH35Pix8b04AkgklcFdW-29" value="F" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="520" y="2980" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uH35Pix8b04AkgklcFdW-30" value="T" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="uH35Pix8b04AkgklcFdW-30" value="T" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="500" y="3065" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uH35Pix8b04AkgklcFdW-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uH35Pix8b04AkgklcFdW-32" target="uH35Pix8b04AkgklcFdW-33">
+        <mxCell id="uH35Pix8b04AkgklcFdW-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="uH35Pix8b04AkgklcFdW-32" target="uH35Pix8b04AkgklcFdW-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uH35Pix8b04AkgklcFdW-32" value="When to use loop and if - else" style="rounded=1;whiteSpace=wrap;html=1;fontSize=30;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="uH35Pix8b04AkgklcFdW-32" value="When to use loop and if - else" style="rounded=1;whiteSpace=wrap;html=1;fontSize=30;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="382.82" y="3280" width="457.18" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="uH35Pix8b04AkgklcFdW-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uH35Pix8b04AkgklcFdW-33" target="uH35Pix8b04AkgklcFdW-35">
+        <mxCell id="uH35Pix8b04AkgklcFdW-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="uH35Pix8b04AkgklcFdW-33" target="uH35Pix8b04AkgklcFdW-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uH35Pix8b04AkgklcFdW-33" value="For loop" style="whiteSpace=wrap;html=1;fontSize=30;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="uH35Pix8b04AkgklcFdW-33" value="For loop" style="whiteSpace=wrap;html=1;fontSize=30;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="497.10999999999996" y="3450" width="228.59" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="uH35Pix8b04AkgklcFdW-35" value="collections" style="whiteSpace=wrap;html=1;fontSize=30;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="uH35Pix8b04AkgklcFdW-35" value="collections" style="whiteSpace=wrap;html=1;fontSize=30;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="512.11" y="3605" width="198.6" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="x3wm_-M1HRtR0HcArfpj" name="Day 2">
+    <mxGraphModel dx="794" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="F-sv6ZL5z_07EZssrHxo-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F-sv6ZL5z_07EZssrHxo-1" target="F-sv6ZL5z_07EZssrHxo-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F-sv6ZL5z_07EZssrHxo-1" value="Functions : a block of code which can be called whenever we need it as per req.&lt;br&gt;&lt;br&gt;def function_name(arguments):&lt;br&gt;#function body(we will write our complete computational work)&lt;br&gt;return value;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="170" y="20" width="430" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="F-sv6ZL5z_07EZssrHxo-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F-sv6ZL5z_07EZssrHxo-2" target="F-sv6ZL5z_07EZssrHxo-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F-sv6ZL5z_07EZssrHxo-2" value="Function can return only one value / only one return statement should be executed&lt;br&gt;&amp;nbsp;but can have multiple return statements." style="whiteSpace=wrap;html=1;fontSize=22;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="184" y="300" width="482.5" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="F-sv6ZL5z_07EZssrHxo-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F-sv6ZL5z_07EZssrHxo-4" target="F-sv6ZL5z_07EZssrHxo-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F-sv6ZL5z_07EZssrHxo-4" value="OOPs concepts : is model that organizes your software design data / object centric.&lt;br&gt;&lt;br&gt;Object : data and behavior(functionality)&lt;br&gt;&lt;br&gt;4 pilars of OOPS :&amp;nbsp;&lt;br&gt;a.abstraction&amp;nbsp;&lt;br&gt;b. encapsulation : wrapping up the data and functions together.&lt;br&gt;c. inheritance&lt;br&gt;d. polymorphism&lt;br&gt;e. Object : it is an instance which can have memory presence ./ real existance.&lt;br&gt;f. class : blueprint (template).&lt;br&gt;&lt;br&gt;Constructor : is used to initialize the object :&amp;nbsp;&lt;br&gt;the mandate is to provide self as a 1st arg to access fields and method internally in init method." style="whiteSpace=wrap;html=1;fontSize=22;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="234" y="590" width="506" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="F-sv6ZL5z_07EZssrHxo-6" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="622" y="845" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F-sv6ZL5z_07EZssrHxo-7" value="we can write multiple init methods but it will consider the last one for execution.&lt;br&gt;&lt;b&gt;we must declare only one init.&lt;br&gt;&lt;br&gt;our field name and method must not be same.&lt;br&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontSize=22;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="300.5" y="1220" width="399.5" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
