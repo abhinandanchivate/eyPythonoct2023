@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-17T12:23:11.891Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="HGIgjEJTXJoHw9Q2GJZ5" version="22.0.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-10-18T05:40:49.876Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="7cylJ_HHlFWEyJDS5YSk" version="22.0.4" type="github" pages="5">
   <diagram name="Page-1" id="zNJ5UQksdYzEF09rp-Vq">
-    <mxGraphModel dx="794" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -146,6 +146,78 @@
         </mxCell>
         <mxCell id="F-sv6ZL5z_07EZssrHxo-9" value="What is inheritance ?&amp;nbsp;&lt;br&gt;it will allow us to new class on the basis of existing one.&lt;br&gt;is-a relationship" style="whiteSpace=wrap;html=1;fontSize=22;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="375.38" y="1670" width="309.75" height="130" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="hFrf8tA8lXmQcnNoYiab" name="Page-3">
+    <mxGraphModel dx="1434" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JgHv3TXvaSKJyEoDI7Ox-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JgHv3TXvaSKJyEoDI7Ox-1" target="JgHv3TXvaSKJyEoDI7Ox-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JgHv3TXvaSKJyEoDI7Ox-1" value="1. http(stateless) : GET/PUT/POST/DELETE/&lt;br&gt;GET : to retrieve the data(from server) / we will provide the required criteria to retrieve the data through URI.&lt;br&gt;PUT : modify&amp;nbsp;&lt;br&gt;POST : to create we will provide the data (request)&lt;br&gt;DELETE : deletion purpose.&lt;br&gt;2. web&lt;br&gt;3. web site / web application&lt;br&gt;4. web service: these are the services which will provide the services to other applications.&lt;br&gt;a. SOAP(simple object access protocol) : xml&lt;br&gt;b. REST: xml, json, media content / pdf, etc.&lt;br&gt;5. rest apis. : http protocol." style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="110" y="120" width="520" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="JgHv3TXvaSKJyEoDI7Ox-2" value="/api/customer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="530" width="500" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JgHv3TXvaSKJyEoDI7Ox-3" value="URL" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JgHv3TXvaSKJyEoDI7Ox-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JgHv3TXvaSKJyEoDI7Ox-4" target="JgHv3TXvaSKJyEoDI7Ox-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JgHv3TXvaSKJyEoDI7Ox-4" value="request : we are going to raise the query to provider/server&lt;br&gt;Response: processed info after receiving req. will be shared via response from server to client(browser / other application)." style="whiteSpace=wrap;html=1;fontSize=22;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="107.5" width="280" height="305" as="geometry" />
+        </mxCell>
+        <mxCell id="JgHv3TXvaSKJyEoDI7Ox-6" value="how many parts are there in request ?" style="whiteSpace=wrap;html=1;fontSize=22;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="580" width="240" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="JgHv3TXvaSKJyEoDI7Ox-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="UDra_PQ2LV8YwbqnWeDr" name="Django">
+    <mxGraphModel dx="1434" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tU9RFKQde4a0CQrwjv2n-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tU9RFKQde4a0CQrwjv2n-1" target="tU9RFKQde4a0CQrwjv2n-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tU9RFKQde4a0CQrwjv2n-1" value="Architecture : will give u the flow understanding. how it should be designed ?&amp;nbsp;&lt;br&gt;&lt;br&gt;Framework : impls of ur architecture." style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="120" y="170" width="540" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="tU9RFKQde4a0CQrwjv2n-3" value="Django : Framework&amp;nbsp;&lt;br&gt;arch : MVT&lt;br&gt;&lt;br&gt;model View Template.&lt;br&gt;Model : will handle all background activities.&lt;br&gt;template : display / presentation.&lt;br&gt;view : accepting the req/ sharing the response.(control the activity)." style="whiteSpace=wrap;html=1;fontSize=22;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="190" y="510" width="400" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="tU9RFKQde4a0CQrwjv2n-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="180" y="950" width="470" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="tU9RFKQde4a0CQrwjv2n-6" value="Controlling" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tU9RFKQde4a0CQrwjv2n-7" value="Food Preparation" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="365" y="1130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tU9RFKQde4a0CQrwjv2n-8" value="Serving the food&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="460" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="HosCRcOqma6aLScFazJW" name="Page-5">
+    <mxGraphModel dx="1434" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="J9MjGmDZibDWLxU-KyeN-1" value="Setup Environment for Django." style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="200" y="100" width="330" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
