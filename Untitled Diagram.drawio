@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-18T13:37:13.493Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="P3MYGFyZSLinlTeeaMOP" version="22.0.4" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-10-19T11:33:16.190Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="_WVBdZjRQlkbyGDJWFnd" version="22.0.4" type="github" pages="5">
   <diagram name="Page-1" id="zNJ5UQksdYzEF09rp-Vq">
     <mxGraphModel dx="1434" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -113,38 +113,38 @@
     </mxGraphModel>
   </diagram>
   <diagram id="x3wm_-M1HRtR0HcArfpj" name="Day 2">
-    <mxGraphModel dx="794" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="F-sv6ZL5z_07EZssrHxo-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F-sv6ZL5z_07EZssrHxo-1" target="F-sv6ZL5z_07EZssrHxo-2">
+        <mxCell id="F-sv6ZL5z_07EZssrHxo-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="F-sv6ZL5z_07EZssrHxo-1" target="F-sv6ZL5z_07EZssrHxo-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="F-sv6ZL5z_07EZssrHxo-1" value="Functions : a block of code which can be called whenever we need it as per req.&lt;br&gt;&lt;br&gt;def function_name(arguments):&lt;br&gt;#function body(we will write our complete computational work)&lt;br&gt;return value;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+        <mxCell id="F-sv6ZL5z_07EZssrHxo-1" value="Functions : a block of code which can be called whenever we need it as per req.&lt;br&gt;&lt;br&gt;def function_name(arguments):&lt;br&gt;#function body(we will write our complete computational work)&lt;br&gt;return value;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="170" y="20" width="430" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="F-sv6ZL5z_07EZssrHxo-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F-sv6ZL5z_07EZssrHxo-2" target="F-sv6ZL5z_07EZssrHxo-4">
+        <mxCell id="F-sv6ZL5z_07EZssrHxo-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="F-sv6ZL5z_07EZssrHxo-2" target="F-sv6ZL5z_07EZssrHxo-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="F-sv6ZL5z_07EZssrHxo-2" value="Function can return only one value / only one return statement should be executed&lt;br&gt;&amp;nbsp;but can have multiple return statements." style="whiteSpace=wrap;html=1;fontSize=22;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="F-sv6ZL5z_07EZssrHxo-2" value="Function can return only one value / only one return statement should be executed&lt;br&gt;&amp;nbsp;but can have multiple return statements." style="whiteSpace=wrap;html=1;fontSize=22;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="184" y="300" width="482.5" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="F-sv6ZL5z_07EZssrHxo-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F-sv6ZL5z_07EZssrHxo-4" target="F-sv6ZL5z_07EZssrHxo-7">
+        <mxCell id="F-sv6ZL5z_07EZssrHxo-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="F-sv6ZL5z_07EZssrHxo-4" target="F-sv6ZL5z_07EZssrHxo-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="F-sv6ZL5z_07EZssrHxo-4" value="OOPs concepts : is model that organizes your software design data / object centric.&lt;br&gt;&lt;br&gt;Object : data and behavior(functionality)&lt;br&gt;&lt;br&gt;4 pilars of OOPS :&amp;nbsp;&lt;br&gt;a.abstraction&amp;nbsp;&lt;br&gt;b. encapsulation : wrapping up the data and functions together.&lt;br&gt;c. inheritance&lt;br&gt;d. polymorphism&lt;br&gt;e. Object : it is an instance which can have memory presence ./ real existance.&lt;br&gt;f. class : blueprint (template).&lt;br&gt;&lt;br&gt;Constructor : is used to initialize the object :&amp;nbsp;&lt;br&gt;the mandate is to provide self as a 1st arg to access fields and method internally in init method." style="whiteSpace=wrap;html=1;fontSize=22;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;" vertex="1" parent="1">
+        <mxCell id="F-sv6ZL5z_07EZssrHxo-4" value="OOPs concepts : is model that organizes your software design data / object centric.&lt;br&gt;&lt;br&gt;Object : data and behavior(functionality)&lt;br&gt;&lt;br&gt;4 pilars of OOPS :&amp;nbsp;&lt;br&gt;a.abstraction&amp;nbsp;&lt;br&gt;b. encapsulation : wrapping up the data and functions together.&lt;br&gt;c. inheritance&lt;br&gt;d. polymorphism&lt;br&gt;e. Object : it is an instance which can have memory presence ./ real existance.&lt;br&gt;f. class : blueprint (template).&lt;br&gt;&lt;br&gt;Constructor : is used to initialize the object :&amp;nbsp;&lt;br&gt;the mandate is to provide self as a 1st arg to access fields and method internally in init method." style="whiteSpace=wrap;html=1;fontSize=22;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="234" y="590" width="506" height="430" as="geometry" />
         </mxCell>
-        <mxCell id="F-sv6ZL5z_07EZssrHxo-6" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="F-sv6ZL5z_07EZssrHxo-6" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="622" y="845" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="F-sv6ZL5z_07EZssrHxo-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F-sv6ZL5z_07EZssrHxo-7" target="F-sv6ZL5z_07EZssrHxo-9">
+        <mxCell id="F-sv6ZL5z_07EZssrHxo-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="F-sv6ZL5z_07EZssrHxo-7" target="F-sv6ZL5z_07EZssrHxo-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="F-sv6ZL5z_07EZssrHxo-7" value="we can write multiple init methods but it will consider the last one for execution.&lt;br&gt;&lt;b&gt;we must declare only one init.&lt;br&gt;&lt;br&gt;our field name and method must not be same.&lt;br&gt;&lt;br&gt;No need to declare the fields in class directly we will declare them in init method using self.XXX (XXX = name of field)&lt;br&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontSize=22;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;" vertex="1" parent="1">
+        <mxCell id="F-sv6ZL5z_07EZssrHxo-7" value="we can write multiple init methods but it will consider the last one for execution.&lt;br&gt;&lt;b&gt;we must declare only one init.&lt;br&gt;&lt;br&gt;our field name and method must not be same.&lt;br&gt;&lt;br&gt;No need to declare the fields in class directly we will declare them in init method using self.XXX (XXX = name of field)&lt;br&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontSize=22;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="300.5" y="1220" width="459.5" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="F-sv6ZL5z_07EZssrHxo-9" value="What is inheritance ?&amp;nbsp;&lt;br&gt;it will allow us to new class on the basis of existing one.&lt;br&gt;is-a relationship" style="whiteSpace=wrap;html=1;fontSize=22;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;" vertex="1" parent="1">
+        <mxCell id="F-sv6ZL5z_07EZssrHxo-9" value="What is inheritance ?&amp;nbsp;&lt;br&gt;it will allow us to new class on the basis of existing one.&lt;br&gt;is-a relationship" style="whiteSpace=wrap;html=1;fontSize=22;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="375.38" y="1670" width="309.75" height="130" as="geometry" />
         </mxCell>
       </root>
@@ -155,28 +155,28 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="JgHv3TXvaSKJyEoDI7Ox-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JgHv3TXvaSKJyEoDI7Ox-1" target="JgHv3TXvaSKJyEoDI7Ox-4">
+        <mxCell id="JgHv3TXvaSKJyEoDI7Ox-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JgHv3TXvaSKJyEoDI7Ox-1" target="JgHv3TXvaSKJyEoDI7Ox-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JgHv3TXvaSKJyEoDI7Ox-1" value="1. http(stateless) : GET/PUT/POST/DELETE/&lt;br&gt;GET : to retrieve the data(from server) / we will provide the required criteria to retrieve the data through URI.&lt;br&gt;PUT : modify&amp;nbsp;&lt;br&gt;POST : to create we will provide the data (request)&lt;br&gt;DELETE : deletion purpose.&lt;br&gt;2. web&lt;br&gt;3. web site / web application&lt;br&gt;4. web service: these are the services which will provide the services to other applications.&lt;br&gt;a. SOAP(simple object access protocol) : xml&lt;br&gt;b. REST: xml, json, media content / pdf, etc.&lt;br&gt;5. rest apis. : http protocol." style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+        <mxCell id="JgHv3TXvaSKJyEoDI7Ox-1" value="1. http(stateless) : GET/PUT/POST/DELETE/&lt;br&gt;GET : to retrieve the data(from server) / we will provide the required criteria to retrieve the data through URI.&lt;br&gt;PUT : modify&amp;nbsp;&lt;br&gt;POST : to create we will provide the data (request)&lt;br&gt;DELETE : deletion purpose.&lt;br&gt;2. web&lt;br&gt;3. web site / web application&lt;br&gt;4. web service: these are the services which will provide the services to other applications.&lt;br&gt;a. SOAP(simple object access protocol) : xml&lt;br&gt;b. REST: xml, json, media content / pdf, etc.&lt;br&gt;5. rest apis. : http protocol." style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="110" y="120" width="520" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="JgHv3TXvaSKJyEoDI7Ox-2" value="/api/customer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JgHv3TXvaSKJyEoDI7Ox-2" value="/api/customer" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="530" width="500" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="JgHv3TXvaSKJyEoDI7Ox-3" value="URL" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JgHv3TXvaSKJyEoDI7Ox-3" value="URL" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JgHv3TXvaSKJyEoDI7Ox-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JgHv3TXvaSKJyEoDI7Ox-4" target="JgHv3TXvaSKJyEoDI7Ox-6">
+        <mxCell id="JgHv3TXvaSKJyEoDI7Ox-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JgHv3TXvaSKJyEoDI7Ox-4" target="JgHv3TXvaSKJyEoDI7Ox-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JgHv3TXvaSKJyEoDI7Ox-4" value="request : we are going to raise the query to provider/server&lt;br&gt;Response: processed info after receiving req. will be shared via response from server to client(browser / other application)." style="whiteSpace=wrap;html=1;fontSize=22;rounded=1;" vertex="1" parent="1">
+        <mxCell id="JgHv3TXvaSKJyEoDI7Ox-4" value="request : we are going to raise the query to provider/server&lt;br&gt;Response: processed info after receiving req. will be shared via response from server to client(browser / other application)." style="whiteSpace=wrap;html=1;fontSize=22;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="830" y="107.5" width="280" height="305" as="geometry" />
         </mxCell>
-        <mxCell id="JgHv3TXvaSKJyEoDI7Ox-6" value="how many parts are there in request ?" style="whiteSpace=wrap;html=1;fontSize=22;rounded=1;" vertex="1" parent="1">
+        <mxCell id="JgHv3TXvaSKJyEoDI7Ox-6" value="how many parts are there in request ?" style="whiteSpace=wrap;html=1;fontSize=22;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="850" y="580" width="240" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="JgHv3TXvaSKJyEoDI7Ox-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JgHv3TXvaSKJyEoDI7Ox-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="940" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
@@ -187,25 +187,25 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="tU9RFKQde4a0CQrwjv2n-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tU9RFKQde4a0CQrwjv2n-1" target="tU9RFKQde4a0CQrwjv2n-3">
+        <mxCell id="tU9RFKQde4a0CQrwjv2n-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tU9RFKQde4a0CQrwjv2n-1" target="tU9RFKQde4a0CQrwjv2n-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tU9RFKQde4a0CQrwjv2n-1" value="Architecture : will give u the flow understanding. how it should be designed ?&amp;nbsp;&lt;br&gt;&lt;br&gt;Framework : impls of ur architecture." style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+        <mxCell id="tU9RFKQde4a0CQrwjv2n-1" value="Architecture : will give u the flow understanding. how it should be designed ?&amp;nbsp;&lt;br&gt;&lt;br&gt;Framework : impls of ur architecture." style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="120" y="170" width="540" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="tU9RFKQde4a0CQrwjv2n-3" value="Django : Framework&amp;nbsp;&lt;br&gt;arch : MVT&lt;br&gt;&lt;br&gt;model View Template.&lt;br&gt;Model : will handle all background activities.&lt;br&gt;template : display / presentation.&lt;br&gt;view : accepting the req/ sharing the response.(control the activity)." style="whiteSpace=wrap;html=1;fontSize=22;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="tU9RFKQde4a0CQrwjv2n-3" value="Django : Framework&amp;nbsp;&lt;br&gt;arch : MVT&lt;br&gt;&lt;br&gt;model View Template.&lt;br&gt;Model : will handle all background activities.&lt;br&gt;template : display / presentation.&lt;br&gt;view : accepting the req/ sharing the response.(control the activity)." style="whiteSpace=wrap;html=1;fontSize=22;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="190" y="510" width="400" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="tU9RFKQde4a0CQrwjv2n-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+        <mxCell id="tU9RFKQde4a0CQrwjv2n-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="180" y="950" width="470" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="tU9RFKQde4a0CQrwjv2n-6" value="Controlling" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+        <mxCell id="tU9RFKQde4a0CQrwjv2n-6" value="Controlling" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="260" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tU9RFKQde4a0CQrwjv2n-7" value="Food Preparation" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+        <mxCell id="tU9RFKQde4a0CQrwjv2n-7" value="Food Preparation" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="365" y="1130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tU9RFKQde4a0CQrwjv2n-8" value="Serving the food&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+        <mxCell id="tU9RFKQde4a0CQrwjv2n-8" value="Serving the food&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="460" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
@@ -216,206 +216,231 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="J9MjGmDZibDWLxU-KyeN-40" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="J9MjGmDZibDWLxU-KyeN-40" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="530" y="4320" width="540" height="390" as="geometry" />
         </mxCell>
-        <mxCell id="J9MjGmDZibDWLxU-KyeN-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J9MjGmDZibDWLxU-KyeN-1" target="J9MjGmDZibDWLxU-KyeN-2">
+        <mxCell id="J9MjGmDZibDWLxU-KyeN-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="J9MjGmDZibDWLxU-KyeN-1" target="J9MjGmDZibDWLxU-KyeN-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="J9MjGmDZibDWLxU-KyeN-1" value="Setup Environment for Django." style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="J9MjGmDZibDWLxU-KyeN-1" value="Setup Environment for Django." style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="200" y="100" width="330" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="J9MjGmDZibDWLxU-KyeN-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J9MjGmDZibDWLxU-KyeN-2" target="J9MjGmDZibDWLxU-KyeN-4">
+        <mxCell id="J9MjGmDZibDWLxU-KyeN-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="J9MjGmDZibDWLxU-KyeN-2" target="J9MjGmDZibDWLxU-KyeN-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="J9MjGmDZibDWLxU-KyeN-2" value="python -m venv venv&lt;br&gt;venv : is a virtual environment&lt;br&gt;venv : folder name it will hold reqd libs." style="whiteSpace=wrap;html=1;fontSize=22;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
+        <mxCell id="J9MjGmDZibDWLxU-KyeN-2" value="python -m venv venv&lt;br&gt;venv : is a virtual environment&lt;br&gt;venv : folder name it will hold reqd libs." style="whiteSpace=wrap;html=1;fontSize=22;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="140" y="290" width="450" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="J9MjGmDZibDWLxU-KyeN-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J9MjGmDZibDWLxU-KyeN-4" target="J9MjGmDZibDWLxU-KyeN-6">
+        <mxCell id="J9MjGmDZibDWLxU-KyeN-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="J9MjGmDZibDWLxU-KyeN-4" target="J9MjGmDZibDWLxU-KyeN-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="J9MjGmDZibDWLxU-KyeN-4" value="activate the env:&amp;nbsp;venv/scripts/activate" style="whiteSpace=wrap;html=1;fontSize=22;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
+        <mxCell id="J9MjGmDZibDWLxU-KyeN-4" value="activate the env:&amp;nbsp;venv/scripts/activate" style="whiteSpace=wrap;html=1;fontSize=22;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="172.5" y="505" width="385" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="J9MjGmDZibDWLxU-KyeN-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J9MjGmDZibDWLxU-KyeN-6" target="J9MjGmDZibDWLxU-KyeN-8">
+        <mxCell id="J9MjGmDZibDWLxU-KyeN-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="J9MjGmDZibDWLxU-KyeN-6" target="J9MjGmDZibDWLxU-KyeN-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="J9MjGmDZibDWLxU-KyeN-6" value="we will install reqd lib as per our req.&lt;br&gt;pip install djangorestframework" style="whiteSpace=wrap;html=1;fontSize=22;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
+        <mxCell id="J9MjGmDZibDWLxU-KyeN-6" value="we will install reqd lib as per our req.&lt;br&gt;pip install djangorestframework" style="whiteSpace=wrap;html=1;fontSize=22;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="172.5" y="690" width="385" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="J9MjGmDZibDWLxU-KyeN-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J9MjGmDZibDWLxU-KyeN-8" target="J9MjGmDZibDWLxU-KyeN-10">
+        <mxCell id="J9MjGmDZibDWLxU-KyeN-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="J9MjGmDZibDWLxU-KyeN-8" target="J9MjGmDZibDWLxU-KyeN-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="J9MjGmDZibDWLxU-KyeN-8" value="django project&lt;br&gt;django-admin startproject projectName" style="whiteSpace=wrap;html=1;fontSize=22;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
+        <mxCell id="J9MjGmDZibDWLxU-KyeN-8" value="django project&lt;br&gt;django-admin startproject projectName" style="whiteSpace=wrap;html=1;fontSize=22;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="212.5" y="860" width="447.5" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="J9MjGmDZibDWLxU-KyeN-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J9MjGmDZibDWLxU-KyeN-10" target="J9MjGmDZibDWLxU-KyeN-12">
+        <mxCell id="J9MjGmDZibDWLxU-KyeN-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="J9MjGmDZibDWLxU-KyeN-10" target="J9MjGmDZibDWLxU-KyeN-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="J9MjGmDZibDWLxU-KyeN-10" value="&lt;p style=&quot;box-sizing: border-box; margin: 0px 0px 10px; color: rgb(107, 107, 107); font-family: &amp;quot;Open Sans&amp;quot;; font-size: 14px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Now we open&amp;nbsp;&lt;em style=&quot;box-sizing: border-box;&quot;&gt;settings.py&lt;/em&gt;&amp;nbsp;and add Django REST framework to the&amp;nbsp;&lt;code style=&quot;box-sizing: border-box; font-family: Menlo, Monaco, Consolas, &amp;quot;courier new&amp;quot;, monospace; padding: 2px 4px; color: rgb(85, 85, 85); border-radius: 4px; background-color: rgb(243, 243, 243) !important;&quot;&gt;INSTALLED_APPS&lt;/code&gt;&amp;nbsp;array here.&lt;/p&gt;&lt;pre style=&quot;box-sizing: border-box; overflow: auto; font-family: Consolas, Monaco, &amp;quot;andale mono&amp;quot;, &amp;quot;ubuntu mono&amp;quot;, monospace; font-size: 14px; padding: 1em; margin-top: 0.5em; margin-bottom: 0.5em; line-height: 1.5; word-break: normal; overflow-wrap: normal; width: 630px; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; text-shadow: rgb(255, 255, 255) 0px 1px; text-align: left; tab-size: 4; hyphens: none; background-color: rgb(250, 250, 250) !important; border: 0px !important; border-radius: 0px !important;&quot; class=&quot;language-python&quot;&gt;&lt;code style=&quot;box-sizing: border-box; font-family: Consolas, Monaco, &amp;quot;andale mono&amp;quot;, &amp;quot;ubuntu mono&amp;quot;, monospace; font-size: 1em; padding: 0px; background-image: initial; background-position: 0px 0px; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; text-shadow: rgb(255, 255, 255) 0px 1px; word-spacing: normal; word-break: normal; overflow-wrap: normal; line-height: 1.5; tab-size: 4; hyphens: none; border-radius: 0px !important; border: 0px !important;&quot; class=&quot;language-python&quot;&gt;INSTALLED_APPS = &lt;span style=&quot;box-sizing: border-box; color: rgb(153, 153, 153);&quot; class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;&lt;br/&gt;    &lt;span style=&quot;box-sizing: border-box; color: rgb(153, 153, 153);&quot; class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;box-sizing: border-box; color: rgb(153, 153, 153);&quot; class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;box-sizing: border-box; color: rgb(153, 153, 153);&quot; class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;br/&gt;    &lt;span style=&quot;box-sizing: border-box; color: rgb(112, 128, 144);&quot; class=&quot;token comment&quot;&gt;# Django REST framework &lt;/span&gt;&lt;br/&gt;    &lt;span style=&quot;box-sizing: border-box; color: rgb(102, 153, 0);&quot; class=&quot;token string&quot;&gt;&#39;rest_framework&#39;&lt;/span&gt;&lt;span style=&quot;box-sizing: border-box; color: rgb(153, 153, 153);&quot; class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;&lt;br/&gt;&lt;span style=&quot;box-sizing: border-box; color: rgb(153, 153, 153);&quot; class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;" style="whiteSpace=wrap;html=1;fontSize=22;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
+        <mxCell id="J9MjGmDZibDWLxU-KyeN-10" value="&lt;p style=&quot;box-sizing: border-box; margin: 0px 0px 10px; color: rgb(107, 107, 107); font-family: &amp;quot;Open Sans&amp;quot;; font-size: 14px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Now we open&amp;nbsp;&lt;em style=&quot;box-sizing: border-box;&quot;&gt;settings.py&lt;/em&gt;&amp;nbsp;and add Django REST framework to the&amp;nbsp;&lt;code style=&quot;box-sizing: border-box; font-family: Menlo, Monaco, Consolas, &amp;quot;courier new&amp;quot;, monospace; padding: 2px 4px; color: rgb(85, 85, 85); border-radius: 4px; background-color: rgb(243, 243, 243) !important;&quot;&gt;INSTALLED_APPS&lt;/code&gt;&amp;nbsp;array here.&lt;/p&gt;&lt;pre style=&quot;box-sizing: border-box; overflow: auto; font-family: Consolas, Monaco, &amp;quot;andale mono&amp;quot;, &amp;quot;ubuntu mono&amp;quot;, monospace; font-size: 14px; padding: 1em; margin-top: 0.5em; margin-bottom: 0.5em; line-height: 1.5; word-break: normal; overflow-wrap: normal; width: 630px; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; text-shadow: rgb(255, 255, 255) 0px 1px; text-align: left; tab-size: 4; hyphens: none; background-color: rgb(250, 250, 250) !important; border: 0px !important; border-radius: 0px !important;&quot; class=&quot;language-python&quot;&gt;&lt;code style=&quot;box-sizing: border-box; font-family: Consolas, Monaco, &amp;quot;andale mono&amp;quot;, &amp;quot;ubuntu mono&amp;quot;, monospace; font-size: 1em; padding: 0px; background-image: initial; background-position: 0px 0px; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; text-shadow: rgb(255, 255, 255) 0px 1px; word-spacing: normal; word-break: normal; overflow-wrap: normal; line-height: 1.5; tab-size: 4; hyphens: none; border-radius: 0px !important; border: 0px !important;&quot; class=&quot;language-python&quot;&gt;INSTALLED_APPS = &lt;span style=&quot;box-sizing: border-box; color: rgb(153, 153, 153);&quot; class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;&lt;br/&gt;    &lt;span style=&quot;box-sizing: border-box; color: rgb(153, 153, 153);&quot; class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;box-sizing: border-box; color: rgb(153, 153, 153);&quot; class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;box-sizing: border-box; color: rgb(153, 153, 153);&quot; class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;br/&gt;    &lt;span style=&quot;box-sizing: border-box; color: rgb(112, 128, 144);&quot; class=&quot;token comment&quot;&gt;# Django REST framework &lt;/span&gt;&lt;br/&gt;    &lt;span style=&quot;box-sizing: border-box; color: rgb(102, 153, 0);&quot; class=&quot;token string&quot;&gt;&#39;rest_framework&#39;&lt;/span&gt;&lt;span style=&quot;box-sizing: border-box; color: rgb(153, 153, 153);&quot; class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;&lt;br/&gt;&lt;span style=&quot;box-sizing: border-box; color: rgb(153, 153, 153);&quot; class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;" style="whiteSpace=wrap;html=1;fontSize=22;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="-0.6200000000000045" y="1030" width="873.75" height="205" as="geometry" />
         </mxCell>
-        <mxCell id="J9MjGmDZibDWLxU-KyeN-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J9MjGmDZibDWLxU-KyeN-12" target="J9MjGmDZibDWLxU-KyeN-14">
+        <mxCell id="J9MjGmDZibDWLxU-KyeN-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="J9MjGmDZibDWLxU-KyeN-12" target="J9MjGmDZibDWLxU-KyeN-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="J9MjGmDZibDWLxU-KyeN-12" value="pip freeze &amp;gt; requirements.txt (all used lib names with version details)" style="whiteSpace=wrap;html=1;fontSize=22;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
+        <mxCell id="J9MjGmDZibDWLxU-KyeN-12" value="pip freeze &amp;gt; requirements.txt (all used lib names with version details)" style="whiteSpace=wrap;html=1;fontSize=22;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="254.37" y="1380" width="363.75" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="J9MjGmDZibDWLxU-KyeN-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J9MjGmDZibDWLxU-KyeN-14" target="J9MjGmDZibDWLxU-KyeN-16">
+        <mxCell id="J9MjGmDZibDWLxU-KyeN-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="J9MjGmDZibDWLxU-KyeN-14" target="J9MjGmDZibDWLxU-KyeN-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="J9MjGmDZibDWLxU-KyeN-14" value="rest apis should hold the data in mysql DB.&lt;br&gt;it should have a connection with mysql DB.&lt;br&gt;how to do it?&lt;br&gt;do we need the lib? ==&amp;gt; yes&lt;br&gt;pip install pymysql" style="whiteSpace=wrap;html=1;fontSize=22;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;" vertex="1" parent="1">
+        <mxCell id="J9MjGmDZibDWLxU-KyeN-14" value="rest apis should hold the data in mysql DB.&lt;br&gt;it should have a connection with mysql DB.&lt;br&gt;how to do it?&lt;br&gt;do we need the lib? ==&amp;gt; yes&lt;br&gt;pip install pymysql" style="whiteSpace=wrap;html=1;fontSize=22;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="219.38" y="1530" width="550.62" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="J9MjGmDZibDWLxU-KyeN-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J9MjGmDZibDWLxU-KyeN-16" target="J9MjGmDZibDWLxU-KyeN-18">
+        <mxCell id="J9MjGmDZibDWLxU-KyeN-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="J9MjGmDZibDWLxU-KyeN-16" target="J9MjGmDZibDWLxU-KyeN-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="J9MjGmDZibDWLxU-KyeN-16" value="open __init__.py file from your project and write the following code to use the functionality from the code.&lt;br&gt;&lt;div style=&quot;color: rgb(204, 204, 204); background-color: rgb(31, 31, 31); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div&gt;import &lt;span style=&quot;color: #4ec9b0;&quot;&gt;pymysql&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;color: #4ec9b0;&quot;&gt;pymysql&lt;/span&gt;.&lt;span style=&quot;color: #dcdcaa;&quot;&gt;install_as_MySQLdb&lt;/span&gt;()&lt;/div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=22;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;" vertex="1" parent="1">
+        <mxCell id="J9MjGmDZibDWLxU-KyeN-16" value="open __init__.py file from your project and write the following code to use the functionality from the code.&lt;br&gt;&lt;div style=&quot;color: rgb(204, 204, 204); background-color: rgb(31, 31, 31); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div&gt;import &lt;span style=&quot;color: #4ec9b0;&quot;&gt;pymysql&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;color: #4ec9b0;&quot;&gt;pymysql&lt;/span&gt;.&lt;span style=&quot;color: #dcdcaa;&quot;&gt;install_as_MySQLdb&lt;/span&gt;()&lt;/div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=22;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="167.02999999999997" y="1850" width="655.31" height="175" as="geometry" />
         </mxCell>
-        <mxCell id="J9MjGmDZibDWLxU-KyeN-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J9MjGmDZibDWLxU-KyeN-18" target="J9MjGmDZibDWLxU-KyeN-20">
+        <mxCell id="J9MjGmDZibDWLxU-KyeN-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="J9MjGmDZibDWLxU-KyeN-18" target="J9MjGmDZibDWLxU-KyeN-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="J9MjGmDZibDWLxU-KyeN-18" value="open settings.py and following db related details in it.&lt;br&gt;&lt;div style=&quot;color: rgb(204, 204, 204); background-color: rgb(31, 31, 31); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;br&gt;&lt;div&gt;DATABASES &lt;span style=&quot;color: #d4d4d4;&quot;&gt;=&lt;/span&gt; {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #ce9178;&quot;&gt;&#39;default&#39;&lt;/span&gt;: {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #ce9178;&quot;&gt;&#39;ENGINE&#39;&lt;/span&gt;: &lt;span style=&quot;color: #ce9178;&quot;&gt;&#39;django.db.backends.mysql&#39;&lt;/span&gt;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #ce9178;&quot;&gt;&#39;NAME&#39;&lt;/span&gt;: &lt;span style=&quot;color: #ce9178;&quot;&gt;&#39;testdb&#39;&lt;/span&gt;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #ce9178;&quot;&gt;&#39;USER&#39;&lt;/span&gt;: &lt;span style=&quot;color: #ce9178;&quot;&gt;&#39;root&#39;&lt;/span&gt;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #ce9178;&quot;&gt;&#39;PASSWORD&#39;&lt;/span&gt;: &lt;span style=&quot;color: #ce9178;&quot;&gt;&#39;root&#39;&lt;/span&gt;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #ce9178;&quot;&gt;&#39;HOST&#39;&lt;/span&gt;: &lt;span style=&quot;color: #ce9178;&quot;&gt;&#39;127.0.0.1&#39;&lt;/span&gt;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #ce9178;&quot;&gt;&#39;PORT&#39;&lt;/span&gt;: &lt;span style=&quot;color: #ce9178;&quot;&gt;&#39;3306&#39;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; }&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=22;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;" vertex="1" parent="1">
+        <mxCell id="J9MjGmDZibDWLxU-KyeN-18" value="open settings.py and following db related details in it.&lt;br&gt;&lt;div style=&quot;color: rgb(204, 204, 204); background-color: rgb(31, 31, 31); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;br&gt;&lt;div&gt;DATABASES &lt;span style=&quot;color: #d4d4d4;&quot;&gt;=&lt;/span&gt; {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #ce9178;&quot;&gt;&#39;default&#39;&lt;/span&gt;: {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #ce9178;&quot;&gt;&#39;ENGINE&#39;&lt;/span&gt;: &lt;span style=&quot;color: #ce9178;&quot;&gt;&#39;django.db.backends.mysql&#39;&lt;/span&gt;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #ce9178;&quot;&gt;&#39;NAME&#39;&lt;/span&gt;: &lt;span style=&quot;color: #ce9178;&quot;&gt;&#39;testdb&#39;&lt;/span&gt;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #ce9178;&quot;&gt;&#39;USER&#39;&lt;/span&gt;: &lt;span style=&quot;color: #ce9178;&quot;&gt;&#39;root&#39;&lt;/span&gt;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #ce9178;&quot;&gt;&#39;PASSWORD&#39;&lt;/span&gt;: &lt;span style=&quot;color: #ce9178;&quot;&gt;&#39;root&#39;&lt;/span&gt;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #ce9178;&quot;&gt;&#39;HOST&#39;&lt;/span&gt;: &lt;span style=&quot;color: #ce9178;&quot;&gt;&#39;127.0.0.1&#39;&lt;/span&gt;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #ce9178;&quot;&gt;&#39;PORT&#39;&lt;/span&gt;: &lt;span style=&quot;color: #ce9178;&quot;&gt;&#39;3306&#39;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; }&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=22;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="157.03000000000003" y="2130" width="675.32" height="397.5" as="geometry" />
         </mxCell>
-        <mxCell id="J9MjGmDZibDWLxU-KyeN-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J9MjGmDZibDWLxU-KyeN-20" target="J9MjGmDZibDWLxU-KyeN-22">
+        <mxCell id="J9MjGmDZibDWLxU-KyeN-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="J9MjGmDZibDWLxU-KyeN-20" target="J9MjGmDZibDWLxU-KyeN-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="J9MjGmDZibDWLxU-KyeN-20" value="we created the rest-app-part for emp via :&amp;nbsp;&lt;br&gt;python manage.py startapp projectName&lt;br&gt;we registered under settings.py under installed_apps : projectName.apps.ProjectNameConfig" style="whiteSpace=wrap;html=1;fontSize=22;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;" vertex="1" parent="1">
+        <mxCell id="J9MjGmDZibDWLxU-KyeN-20" value="we created the rest-app-part for emp via :&amp;nbsp;&lt;br&gt;python manage.py startapp projectName&lt;br&gt;we registered under settings.py under installed_apps : projectName.apps.ProjectNameConfig" style="whiteSpace=wrap;html=1;fontSize=22;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="232.03" y="2750" width="525.31" height="173.75" as="geometry" />
         </mxCell>
-        <mxCell id="J9MjGmDZibDWLxU-KyeN-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J9MjGmDZibDWLxU-KyeN-22" target="J9MjGmDZibDWLxU-KyeN-24">
+        <mxCell id="J9MjGmDZibDWLxU-KyeN-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="J9MjGmDZibDWLxU-KyeN-22" target="J9MjGmDZibDWLxU-KyeN-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="J9MjGmDZibDWLxU-KyeN-22" value="CORS :&amp;nbsp;&lt;br&gt;pip install django-cors-header&lt;br&gt;we should install it in our startproject where we will write our rest call details.&lt;br&gt;add the following in settings.py&lt;br&gt;&lt;div style=&quot;color: rgb(204, 204, 204); background-color: rgb(31, 31, 31); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div&gt;CORS_ORIGIN_ALLOW_ALL &lt;span style=&quot;color: #d4d4d4;&quot;&gt;=&lt;/span&gt; &lt;span style=&quot;color: #569cd6;&quot;&gt;False&lt;/span&gt; &amp;nbsp;&lt;span style=&quot;color: #6a9955;&quot;&gt;# do u want to allow any ip to access this end points?&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #4fc1ff;&quot;&gt;CORS_ORIGIN_WHITELIST&lt;/span&gt; &lt;span style=&quot;color: #d4d4d4;&quot;&gt;=&lt;/span&gt; (&lt;span style=&quot;color: #ce9178;&quot;&gt;&#39;http://localhost:8081&#39;&lt;/span&gt;)&lt;/div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=22;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;" vertex="1" parent="1">
+        <mxCell id="J9MjGmDZibDWLxU-KyeN-22" value="CORS :&amp;nbsp;&lt;br&gt;pip install django-cors-header&lt;br&gt;we should install it in our startproject where we will write our rest call details.&lt;br&gt;add the following in settings.py&lt;br&gt;&lt;div style=&quot;color: rgb(204, 204, 204); background-color: rgb(31, 31, 31); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div&gt;CORS_ORIGIN_ALLOW_ALL &lt;span style=&quot;color: #d4d4d4;&quot;&gt;=&lt;/span&gt; &lt;span style=&quot;color: #569cd6;&quot;&gt;False&lt;/span&gt; &amp;nbsp;&lt;span style=&quot;color: #6a9955;&quot;&gt;# do u want to allow any ip to access this end points?&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #4fc1ff;&quot;&gt;CORS_ORIGIN_WHITELIST&lt;/span&gt; &lt;span style=&quot;color: #d4d4d4;&quot;&gt;=&lt;/span&gt; (&lt;span style=&quot;color: #ce9178;&quot;&gt;&#39;http://localhost:8081&#39;&lt;/span&gt;)&lt;/div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=22;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="155.93" y="3040" width="677.5" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="J9MjGmDZibDWLxU-KyeN-24" value="we have written our model specs--&amp;gt; we got migration in terms of model object ---&amp;gt; migrate command --&amp;gt; we recieved tables." style="whiteSpace=wrap;html=1;fontSize=22;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;" vertex="1" parent="1">
+        <mxCell id="J9MjGmDZibDWLxU-KyeN-24" value="we have written our model specs--&amp;gt; we got migration in terms of model object ---&amp;gt; migrate command --&amp;gt; we recieved tables." style="whiteSpace=wrap;html=1;fontSize=22;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="322.02" y="3500" width="345.32" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="J9MjGmDZibDWLxU-KyeN-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J9MjGmDZibDWLxU-KyeN-26" target="J9MjGmDZibDWLxU-KyeN-27">
+        <mxCell id="J9MjGmDZibDWLxU-KyeN-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="J9MjGmDZibDWLxU-KyeN-26" target="J9MjGmDZibDWLxU-KyeN-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="J9MjGmDZibDWLxU-KyeN-26" value="Model class&lt;br&gt;class Employee&amp;nbsp;&lt;br&gt;emp_id&lt;br&gt;empName&lt;br&gt;salary&lt;br&gt;dob&lt;br&gt;doj" style="rounded=1;whiteSpace=wrap;html=1;fontSize=32;" vertex="1" parent="1">
+        <mxCell id="J9MjGmDZibDWLxU-KyeN-26" value="Model class&lt;br&gt;class Employee&amp;nbsp;&lt;br&gt;emp_id&lt;br&gt;empName&lt;br&gt;salary&lt;br&gt;dob&lt;br&gt;doj" style="rounded=1;whiteSpace=wrap;html=1;fontSize=32;" parent="1" vertex="1">
           <mxGeometry x="155.93" y="3750" width="234.07" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="J9MjGmDZibDWLxU-KyeN-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J9MjGmDZibDWLxU-KyeN-27" target="J9MjGmDZibDWLxU-KyeN-29">
+        <mxCell id="J9MjGmDZibDWLxU-KyeN-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="J9MjGmDZibDWLxU-KyeN-27" target="J9MjGmDZibDWLxU-KyeN-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="J9MjGmDZibDWLxU-KyeN-27" value="Table (explicitly ) DB Team" style="whiteSpace=wrap;html=1;fontSize=32;rounded=1;" vertex="1" parent="1">
+        <mxCell id="J9MjGmDZibDWLxU-KyeN-27" value="Table (explicitly ) DB Team" style="whiteSpace=wrap;html=1;fontSize=32;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="527.04" y="3870" width="362.97" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="J9MjGmDZibDWLxU-KyeN-29" value="employee_table&amp;nbsp;&lt;br&gt;emp_id(pk)&lt;br&gt;emp_name(varchar)&lt;br&gt;salary(number)&lt;br&gt;dob(Date)&lt;br&gt;doj(date)&lt;br&gt;" style="whiteSpace=wrap;html=1;fontSize=32;rounded=1;" vertex="1" parent="1">
+        <mxCell id="J9MjGmDZibDWLxU-KyeN-29" value="employee_table&amp;nbsp;&lt;br&gt;emp_id(pk)&lt;br&gt;emp_name(varchar)&lt;br&gt;salary(number)&lt;br&gt;dob(Date)&lt;br&gt;doj(date)&lt;br&gt;" style="whiteSpace=wrap;html=1;fontSize=32;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1096" y="3790" width="358.51" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="J9MjGmDZibDWLxU-KyeN-31" value="insert statements" style="whiteSpace=wrap;html=1;fontSize=32;rounded=1;" vertex="1" parent="1">
+        <mxCell id="J9MjGmDZibDWLxU-KyeN-31" value="insert statements" style="whiteSpace=wrap;html=1;fontSize=32;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="527.04" y="3980" width="362.97" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="J9MjGmDZibDWLxU-KyeN-32" value="ORM : object relational mapping.&lt;br&gt;we will define our model specs ===&amp;gt; ORM ==&amp;gt; modeling details ==&amp;gt; table." style="whiteSpace=wrap;html=1;fontSize=32;rounded=1;" vertex="1" parent="1">
+        <mxCell id="J9MjGmDZibDWLxU-KyeN-32" value="ORM : object relational mapping.&lt;br&gt;we will define our model specs ===&amp;gt; ORM ==&amp;gt; modeling details ==&amp;gt; table." style="whiteSpace=wrap;html=1;fontSize=32;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="4100" width="590" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="J9MjGmDZibDWLxU-KyeN-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J9MjGmDZibDWLxU-KyeN-33" target="J9MjGmDZibDWLxU-KyeN-34">
+        <mxCell id="J9MjGmDZibDWLxU-KyeN-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="J9MjGmDZibDWLxU-KyeN-33" target="J9MjGmDZibDWLxU-KyeN-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="J9MjGmDZibDWLxU-KyeN-33" value="Declare" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+        <mxCell id="J9MjGmDZibDWLxU-KyeN-33" value="Declare" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="740" y="4330" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="J9MjGmDZibDWLxU-KyeN-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J9MjGmDZibDWLxU-KyeN-34" target="J9MjGmDZibDWLxU-KyeN-36">
+        <mxCell id="J9MjGmDZibDWLxU-KyeN-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="J9MjGmDZibDWLxU-KyeN-34" target="J9MjGmDZibDWLxU-KyeN-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="J9MjGmDZibDWLxU-KyeN-34" value="Transform" style="whiteSpace=wrap;html=1;rounded=1;fontSize=22;" vertex="1" parent="1">
+        <mxCell id="J9MjGmDZibDWLxU-KyeN-34" value="Transform" style="whiteSpace=wrap;html=1;rounded=1;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="740" y="4470" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="J9MjGmDZibDWLxU-KyeN-36" value="Generate" style="whiteSpace=wrap;html=1;rounded=1;fontSize=22;" vertex="1" parent="1">
+        <mxCell id="J9MjGmDZibDWLxU-KyeN-36" value="Generate" style="whiteSpace=wrap;html=1;rounded=1;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="740" y="4610" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="J9MjGmDZibDWLxU-KyeN-38" value="migration" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="J9MjGmDZibDWLxU-KyeN-38" value="migration" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="860" y="4410" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="J9MjGmDZibDWLxU-KyeN-39" value="migrate" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="J9MjGmDZibDWLxU-KyeN-39" value="migrate" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="870" y="4560" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="J9MjGmDZibDWLxU-KyeN-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J9MjGmDZibDWLxU-KyeN-41" target="J9MjGmDZibDWLxU-KyeN-42">
+        <mxCell id="J9MjGmDZibDWLxU-KyeN-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="J9MjGmDZibDWLxU-KyeN-41" target="J9MjGmDZibDWLxU-KyeN-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="J9MjGmDZibDWLxU-KyeN-41" value="postman/client" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+        <mxCell id="J9MjGmDZibDWLxU-KyeN-41" value="postman/client" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="450" y="4910" width="260" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="J9MjGmDZibDWLxU-KyeN-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J9MjGmDZibDWLxU-KyeN-42" target="J9MjGmDZibDWLxU-KyeN-44">
+        <mxCell id="J9MjGmDZibDWLxU-KyeN-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="J9MjGmDZibDWLxU-KyeN-42" target="J9MjGmDZibDWLxU-KyeN-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="J9MjGmDZibDWLxU-KyeN-42" value="RestApp" style="whiteSpace=wrap;html=1;fontSize=22;rounded=1;" vertex="1" parent="1">
+        <mxCell id="J9MjGmDZibDWLxU-KyeN-42" value="RestApp" style="whiteSpace=wrap;html=1;fontSize=22;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="860" y="4980" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="J9MjGmDZibDWLxU-KyeN-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J9MjGmDZibDWLxU-KyeN-44" target="J9MjGmDZibDWLxU-KyeN-46">
+        <mxCell id="J9MjGmDZibDWLxU-KyeN-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="J9MjGmDZibDWLxU-KyeN-44" target="J9MjGmDZibDWLxU-KyeN-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="J9MjGmDZibDWLxU-KyeN-44" value="data needs to be transformed" style="whiteSpace=wrap;html=1;fontSize=22;rounded=1;" vertex="1" parent="1">
+        <mxCell id="J9MjGmDZibDWLxU-KyeN-44" value="data needs to be transformed" style="whiteSpace=wrap;html=1;fontSize=22;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1085" y="4975" width="190" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="J9MjGmDZibDWLxU-KyeN-46" value="DB" style="whiteSpace=wrap;html=1;fontSize=22;rounded=1;" vertex="1" parent="1">
+        <mxCell id="J9MjGmDZibDWLxU-KyeN-46" value="DB" style="whiteSpace=wrap;html=1;fontSize=22;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1390" y="4980" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="J9MjGmDZibDWLxU-KyeN-48" value="we need to deal with Models" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="1">
+        <mxCell id="J9MjGmDZibDWLxU-KyeN-48" value="we need to deal with Models" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="1030" y="4935" width="294" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="J9MjGmDZibDWLxU-KyeN-49" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="557.5" y="5150" width="892.5" height="540" as="geometry" />
+        <mxCell id="J9MjGmDZibDWLxU-KyeN-49" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" parent="1" vertex="1">
+          <mxGeometry x="520" y="5150" width="892.5" height="540" as="geometry" />
         </mxCell>
-        <mxCell id="J9MjGmDZibDWLxU-KyeN-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="J9MjGmDZibDWLxU-KyeN-50" target="J9MjGmDZibDWLxU-KyeN-52">
+        <mxCell id="J9MjGmDZibDWLxU-KyeN-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="J9MjGmDZibDWLxU-KyeN-50" target="J9MjGmDZibDWLxU-KyeN-52" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="J9MjGmDZibDWLxU-KyeN-50" value="URL Patterns" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+        <mxCell id="J9MjGmDZibDWLxU-KyeN-50" value="URL Patterns" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="713.43" y="5270" width="126.57" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="J9MjGmDZibDWLxU-KyeN-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J9MjGmDZibDWLxU-KyeN-51" target="J9MjGmDZibDWLxU-KyeN-54">
+        <mxCell id="J9MjGmDZibDWLxU-KyeN-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="J9MjGmDZibDWLxU-KyeN-51" target="J9MjGmDZibDWLxU-KyeN-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="J9MjGmDZibDWLxU-KyeN-51" value="Model" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+        <mxCell id="J9MjGmDZibDWLxU-KyeN-51" value="Model" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="1010" y="5460" width="126.57" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="J9MjGmDZibDWLxU-KyeN-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="J9MjGmDZibDWLxU-KyeN-52" target="J9MjGmDZibDWLxU-KyeN-53">
+        <mxCell id="J9MjGmDZibDWLxU-KyeN-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="J9MjGmDZibDWLxU-KyeN-52" target="J9MjGmDZibDWLxU-KyeN-53" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="J9MjGmDZibDWLxU-KyeN-52" value="View" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+        <mxCell id="J9MjGmDZibDWLxU-KyeN-52" value="View/&lt;br&gt;controller" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="723" y="5450" width="126.57" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="J9MjGmDZibDWLxU-KyeN-53" value="Serializer" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+        <mxCell id="eOk2GdI0TmQcpOIiiCwn-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J9MjGmDZibDWLxU-KyeN-53" target="eOk2GdI0TmQcpOIiiCwn-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J9MjGmDZibDWLxU-KyeN-53" value="Serializer" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="1010" y="5270" width="126.57" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="J9MjGmDZibDWLxU-KyeN-54" value="DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=22;" vertex="1" parent="1">
+        <mxCell id="J9MjGmDZibDWLxU-KyeN-54" value="DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="1530" y="5350" width="120" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="J9MjGmDZibDWLxU-KyeN-55" value="DjangoApp" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="1">
+        <mxCell id="J9MjGmDZibDWLxU-KyeN-55" value="DjangoApp" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="1230" y="5180" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="J9MjGmDZibDWLxU-KyeN-56" value="postman/client" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+        <mxCell id="J9MjGmDZibDWLxU-KyeN-56" value="postman/client" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="50" y="5260" width="260" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="J9MjGmDZibDWLxU-KyeN-57" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=12;endSize=11.4;" edge="1" parent="1" target="J9MjGmDZibDWLxU-KyeN-50">
+        <mxCell id="J9MjGmDZibDWLxU-KyeN-57" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=12;endSize=11.4;" parent="1" target="J9MjGmDZibDWLxU-KyeN-50" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="310" y="5400" as="sourcePoint" />
             <mxPoint x="360" y="5350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="J9MjGmDZibDWLxU-KyeN-58" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=1.015;entryY=0.643;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.001;exitY=0.641;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="J9MjGmDZibDWLxU-KyeN-49" target="J9MjGmDZibDWLxU-KyeN-56">
+        <mxCell id="J9MjGmDZibDWLxU-KyeN-58" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=1.015;entryY=0.643;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.001;exitY=0.641;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="J9MjGmDZibDWLxU-KyeN-49" target="J9MjGmDZibDWLxU-KyeN-56" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="341" y="5490" as="sourcePoint" />
             <mxPoint x="590" y="5493" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="J9MjGmDZibDWLxU-KyeN-59" value="request" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="J9MjGmDZibDWLxU-KyeN-59" value="request" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="395" y="5350" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="J9MjGmDZibDWLxU-KyeN-60" value="response" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="J9MjGmDZibDWLxU-KyeN-60" value="response" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="406.26" y="5450" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="J9MjGmDZibDWLxU-KyeN-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.632;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="J9MjGmDZibDWLxU-KyeN-53" target="J9MjGmDZibDWLxU-KyeN-51">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="J9MjGmDZibDWLxU-KyeN-65" value="/api/employee ---&amp;gt; GET, POST, DELETE&lt;br&gt;/api/employee GET : to retrieve all the records (requestbody content) : NO status code : success : 200&amp;nbsp; , fail : 404&lt;br&gt;/api/employee POST : we will insert new record (requestbody content) : YES--&amp;gt; data in terms of json object. status code : success : 201&amp;nbsp; , fail :&amp;nbsp; data is not proper : 400&amp;nbsp; server failure 500&lt;br&gt;&lt;br&gt;/api/employee DELETE : we will delete all the records (requestbody content) : NO&lt;br&gt;status code : success : 204&amp;nbsp; , fail : 404&lt;br&gt;&lt;br&gt;/api/employee/:id --&amp;gt;GET,PUT,DELETE&lt;br&gt;/api/employee/5 GET --&amp;gt;it is going to retrieve the employee record whose id is 5. (requestbody content) : NO&amp;nbsp; status code : success : 200&amp;nbsp; , fail : 404&lt;br&gt;&lt;br&gt;/api/employee/5 PUT--&amp;gt; it is going to infrom that we will modify or update the employee whose id is 5. (requestbody content) : YES updated values in terms of JSON object.&lt;br&gt;status code : success : 200&amp;nbsp; , fail : 404&lt;br&gt;&lt;br&gt;/api/employee/5 DELETE --&amp;gt; it is going to delete the record whose employee id is 5&lt;br&gt;(requestbody content) : NO.&amp;nbsp;&amp;nbsp;&lt;br&gt;status code : success : 204&amp;nbsp; , fail : 404&lt;br&gt;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+        <mxCell id="J9MjGmDZibDWLxU-KyeN-65" value="/api/employee ---&amp;gt; GET, POST, DELETE&lt;br&gt;/api/employee GET : to retrieve all the records (requestbody content) : NO status code : success : 200&amp;nbsp; , fail : 404&lt;br&gt;/api/employee POST : we will insert new record (requestbody content) : YES--&amp;gt; data in terms of json object. status code : success : 201&amp;nbsp; , fail :&amp;nbsp; data is not proper : 400&amp;nbsp; server failure 500&lt;br&gt;&lt;br&gt;/api/employee DELETE : we will delete all the records (requestbody content) : NO&lt;br&gt;status code : success : 204&amp;nbsp; , fail : 404&lt;br&gt;&lt;br&gt;/api/employee/:id --&amp;gt;GET,PUT,DELETE&lt;br&gt;/api/employee/5 GET --&amp;gt;it is going to retrieve the employee record whose id is 5. (requestbody content) : NO&amp;nbsp; status code : success : 200&amp;nbsp; , fail : 404&lt;br&gt;&lt;br&gt;/api/employee/5 PUT--&amp;gt; it is going to infrom that we will modify or update the employee whose id is 5. (requestbody content) : YES updated values in terms of JSON object.&lt;br&gt;status code : success : 200&amp;nbsp; , fail : 404&lt;br&gt;&lt;br&gt;/api/employee/5 DELETE --&amp;gt; it is going to delete the record whose employee id is 5&lt;br&gt;(requestbody content) : NO.&amp;nbsp;&amp;nbsp;&lt;br&gt;status code : success : 204&amp;nbsp; , fail : 404&lt;br&gt;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="390" y="5860" width="1070" height="690" as="geometry" />
+        </mxCell>
+        <mxCell id="eOk2GdI0TmQcpOIiiCwn-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eOk2GdI0TmQcpOIiiCwn-1" target="J9MjGmDZibDWLxU-KyeN-51">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1320" y="5400" />
+              <mxPoint x="1073" y="5400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eOk2GdI0TmQcpOIiiCwn-1" value="ModelSerializer" style="whiteSpace=wrap;html=1;fontSize=22;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1219.86" y="5300" width="200.15" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eOk2GdI0TmQcpOIiiCwn-5" value="extending" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="5260" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eOk2GdI0TmQcpOIiiCwn-6" value="Model" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1147" y="5350" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eOk2GdI0TmQcpOIiiCwn-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.079;entryY=0.042;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="J9MjGmDZibDWLxU-KyeN-53" target="J9MjGmDZibDWLxU-KyeN-51">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1020" y="5400" />
+              <mxPoint x="1020" y="5400" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
